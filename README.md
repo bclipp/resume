@@ -9,3 +9,10 @@ Projects:
 * https://github.com/bclipp/streaming_data_postgresql (Streaming Data with Kafka, Under construction) 
 
 Publication:
+
+
+ https://link.medium.com/dHEeBp2mf4 ( Engineering for All: Single Responsibility)
+ https://link.medium.com/iaMqhEwkd4 (Engineering for all: Unit Testing)
+ https://link.medium.com/VlcbYxl6g6 (Engineering for All: Dependency Injection)
+ https://link.medium.com/FbRABls6g6 (Snowflake and Spark: A technical perspective)
+ https://link.medium.com/elkgGsv6g6 (Engineering for All: Faking)
