@@ -7,6 +7,7 @@ Projects:
 
 * https://github.com/bclipp/mlpipeline_jenkins (MLOps Project, Under construction) 
 * https://github.com/bclipp/streaming_data_postgresql (Streaming Data with Kafka, Under construction) 
+* https://github.com/bclipp/data_modeling_posgresql(Data modeling & ETL using Postgresql)
 
 Publication:
 
@@ -16,3 +17,4 @@ Publication:
  * https://link.medium.com/VlcbYxl6g6 (Engineering for All: Dependency Injection)   
  * https://link.medium.com/FbRABls6g6 (Snowflake and Spark: A technical perspective)   
  * https://link.medium.com/elkgGsv6g6 (Engineering for All: Faking)   
+ 
