@@ -7,8 +7,12 @@ Projects:
 
 * https://github.com/bclipp/mlpipeline_jenkins (MLOps Project, Under construction) 
 * https://github.com/bclipp/streaming_data_postgresql (Streaming Data with Kafka, Under construction) 
-* https://github.com/bclipp/data_modeling_posgresql(Data modeling & ETL using Postgresql)
-
+* https://github.com/bclipp/data_modeling_posgresql (Data modeling & ETL using Postgresql, Under construction)
+* (Data Warehouse with Snowflake, Under construction)
+* (Spark ETL, Under construction)
+* (Serverless REST API, AWS and  Infrasture as Code , Under construction)
+* (REST API in Go and Python, Under construction) 
+* (GRPC API in Go and Python, Under construction)
 Publication:
 
 
