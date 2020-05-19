@@ -33,3 +33,9 @@ Engineer
  * Kafka Developer (August 2020)
  
  ### Mooc's Completed
+ * Data Engineer NanoDegree
+ * Coursera Big Data Specialization
+ * Coursera Data Science Specialization
+ * Coursera Machine Learning Specialization
+ * Coursera Golang Specialization
+ 
