@@ -23,3 +23,13 @@ Engineer
  * https://link.medium.com/FbRABls6g6 (Snowflake and Spark: A technical perspective)   
  * https://link.medium.com/elkgGsv6g6 (Engineering for All: Faking)   
  
+ ### Certifications
+ * A+
+ * Net+
+ * CCNA
+ * AWS Solutions Architect Associate (May 2020)
+ * Data Bricks Spark Developer (June 2020)
+ * Snowflake Developer (July 2020)
+ * Kafka Developer (August 2020)
+ 
+ ### Mooc's Completed
