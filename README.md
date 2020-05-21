@@ -5,7 +5,7 @@ Engineer
 
 ### Projects:
 
-* [API and DB ingestion app](https://github.com/bclipp/api_db_merge)
+* [API and DB ingestion app, Under construction](https://github.com/bclipp/api_db_merge)
 * [MLOps Project, Under construction](https://github.com/bclipp/mlpipeline_jenkins)  
 * [Streaming Data with Kafka, Under construction](https://github.com/bclipp/streaming_data_postgresql) 
 * [Data modeling & ETL using Postgresql, Under construction](https://github.com/bclipp/data_modeling_posgresql) 
