@@ -6,25 +6,26 @@ Engineer
 ### Projects:
 
 * [API and DB ingestion app](https://github.com/bclipp/api_db_merge)
-* [MLOps Project, Under construction] (https://github.com/bclipp/mlpipeline_jenkins)  
-* [https://github.com/bclipp/streaming_data_postgresql] (Streaming Data with Kafka, Under construction) 
-* [https://github.com/bclipp/data_modeling_posgresql] (Data modeling & ETL using Postgresql, Under construction)
-* (Data Warehouse with Snowflake, Under construction)  
-* (Spark ETL in Scala, Under construction)  
-* (Serverless REST API, AWS and  Infrasture as Code , Under construction)  
-* (REST API in Go and Python, Under construction)   
-* (GRPC API in Go and Python, Under construction)  
+* [MLOps Project, Under construction](https://github.com/bclipp/mlpipeline_jenkins)  
+* [Streaming Data with Kafka, Under construction](https://github.com/bclipp/streaming_data_postgresql) 
+* [Data modeling & ETL using Postgresql, Under construction](https://github.com/bclipp/data_modeling_posgresql) 
+* [Data Warehouse with Snowflake, Under construction]  
+* [Spark ETL in Scala, Under construction]  
+* [Serverless REST API, AWS and  Infrasture as Code , Under construction]  
+* [REST API in Go and Python, Under construction]   
+* [GRPC API in Go and Python, Under construction]  
 
 ### Publication:
 
 
- * [https://link.medium.com/dHEeBp2mf4]( Engineering for All: Single Responsibility)   
- * [https://link.medium.com/iaMqhEwkd4](Engineering for all: Unit Testing)   
- * [https://link.medium.com/VlcbYxl6g6](Engineering for All: Dependency Injection)   
- * [https://link.medium.com/FbRABls6g6](Snowflake and Spark: A technical perspective)   
- * [https://link.medium.com/elkgGsv6g6](Engineering for All: Faking)   
+ * [Engineering for All: Single Responsibility](https://link.medium.com/dHEeBp2mf4)
+ * [Engineering for all: Unit Testing](https://link.medium.com/iaMqhEwkd4)
+ * [Engineering for All: Dependency Injection](https://link.medium.com/VlcbYxl6g6)   
+ * [Snowflake and Spark: A technical perspective](https://link.medium.com/FbRABls6g6)  
+ * [Engineering for All: Faking](https://link.medium.com/elkgGsv6g6)
  
  ### Certifications
+ 
  * A+
  * Net+
  * CCNA
@@ -34,6 +35,7 @@ Engineer
  * Kafka Developer (August 2020)
  
  ### Mooc's Completed
+ 
  * Data Engineer NanoDegree
  * Coursera Big Data Specialization
  * Coursera Data Science Specialization
