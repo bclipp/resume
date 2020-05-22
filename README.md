@@ -34,7 +34,7 @@ Engineer
  * Snowflake Developer (July 2020)
  * Kafka Developer (August 2020)
  
- ### Mooc's Completed
+ ### Mooc's Specialization Completed
  
  * Data Engineer NanoDegree
  * Coursera Big Data Specialization
@@ -42,3 +42,4 @@ Engineer
  * Coursera Machine Learning Specialization
  * Coursera Golang Specialization
  
+ ### Mooc Courses
