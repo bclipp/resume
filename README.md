@@ -5,10 +5,10 @@ Engineer
 
 ### Projects:
 
-* [API and DB ingestion app, Under construction](https://github.com/bclipp/api_db_merge)
-* [MLOps Project, Under construction](https://github.com/bclipp/mlpipeline_jenkins)  
+* [API and DB ingestion app, *Under construction*](https://github.com/bclipp/api_db_merge)
+* [MLOps Project, *Under construction*](https://github.com/bclipp/mlpipeline_jenkins)  
 * [Streaming Data with Kafka](https://github.com/bclipp/streaming_data_postgresql) 
-* [Data modeling & ETL using Postgresql, Under construction](https://github.com/bclipp/data_modeling_posgresql) 
+* [Data modeling & ETL using Postgresql, *Under construction*](https://github.com/bclipp/data_modeling_posgresql) 
 * [Data Warehouse with Snowflake, Under construction]  
 * [Spark ETL in Scala, Under construction]  
 * [Serverless REST API, AWS and  Infrasture as Code , Under construction]  
