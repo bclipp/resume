@@ -29,10 +29,10 @@ Engineer
  * A+
  * Net+
  * CCNA
- * AWS Solutions Architect Associate (May 2020)
- * Data Bricks Spark Developer (June 2020)
- * Snowflake Developer (July 2020)
- * Kafka Developer (August 2020)
+ * AWS Solutions Architect Associate (June 2020)
+ * Data Bricks Spark Developer (July 2020)
+ * Snowflake Developer (August 2020)
+ * Kafka Developer (September 2020)
  
  ### Mooc's Specialization Completed
  
