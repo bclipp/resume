@@ -44,3 +44,9 @@ Engineer
  * Coursera Golang Specialization
  
  ### Mooc Courses
+ 
+ ### University
+ 
+* Pace University, MSCIS — 2010, GPA - 3.45  
+* Strayer University , BSIT — 2006 , GPA - 3.67 ; ASIT — 2004 ; GPA --- 4.0 
+
