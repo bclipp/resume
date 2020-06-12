@@ -43,15 +43,15 @@ Engineer
 * Strayer University , BSIT — 2006 , GPA - 3.67 ; ASIT — 2004 ; GPA --- 4.0 
 
 ### Work History
-* Author, Packt Publishing, 2019 - Present
-* Sr. Consultant, SingleStone Consulting, VA 7/2019 - Present
-* Developer/ Data Scientist, SiteZeus, VA 8/2018 - 7/2019
-* API Enablement Engineer, Terazo  (formerly APIvista), Richmond, VA 1/2018 - 8/2018
-* Contracting, 4/2017 - 12/31/2017
-  * Sr. Analytics developer; Credit Suisse 
-  * Data Scientist/Developer; Pratt & Whitney
-* IT Specialist II (Developer/Engineer), The College of William and Mary, Williamsburg, VA: 2009 - 3/2017 
-* Adjunct Instructor, ECPI University, Richmond, VA: 2009 - 2010 & 2016
+* **Author**, Packt Publishing, 2019 - Present
+* **Sr. Consultant**, SingleStone Consulting, VA 7/2019 - Present
+* **Developer/ Data Scientist**, SiteZeus, VA 8/2018 - 7/2019
+* **API Enablement Engineer**, Terazo  (formerly APIvista), Richmond, VA 1/2018 - 8/2018
+* **Contracting**, 4/2017 - 12/31/2017
+  * **Sr. Analytics developer**; Credit Suisse 
+  * **Data Scientist/Developer**; Pratt & Whitney
+* **IT Specialist II (Developer/Engineer)**, The College of William and Mary, Williamsburg, VA: 2009 - 3/2017 
+* **Adjunct Instructor**, ECPI University, Richmond, VA: 2009 - 2010 & 2016
  
  ### Mooc's Specialization Completed
  
