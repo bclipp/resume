@@ -55,7 +55,6 @@ Engineer
  
  ### Mooc's Specialization Completed
  
- * Data Engineer NanoDegree
  * Coursera Big Data Specialization
  * Coursera Data Science Specialization
  * Coursera Machine Learning Specialization
