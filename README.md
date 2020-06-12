@@ -39,8 +39,8 @@ Engineer
  
  ### University
  
-* Pace University, MSCIS — 2010, GPA - 3.45  
-* Strayer University , BSIT — 2006 , GPA - 3.67 ; ASIT — 2004 ; GPA --- 4.0 
+* Pace University, **MSCIS** — 2010, GPA - 3.45  
+* Strayer University , **BSIT** — 2006 , GPA - 3.67 ; **ASIT** — 2004 ; GPA --- 4.0 
 
 ### Work History
 * **Author**, Packt Publishing, 2019 - Present
