@@ -16,7 +16,7 @@ Engineer
 * [Serverless REST API, AWS and  Infrasture as Code, *Under construction*]
 * [Kafka Mircoservice, *Under construction*, *Under construction*]
 * [REST API in Go and Python, *Under construction*](https://github.com/bclipp/rest_grocery)   
-* [GRPC API in Go and Python, *Under construction*](https://github.com/bclipp/grpc_app)
+* [GRPC & REDIS in Go and Python, *Under construction*](https://github.com/bclipp/grpc_app)
 * [Data Modeling MongoDB, *Under construction*](https://github.com/bclipp/modeling_mongodb)
 * [Data Modeling Elasticsearch, *Under construction*](https://github.com/bclipp/modeling_elasticsearch)
 
