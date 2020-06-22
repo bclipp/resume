@@ -14,8 +14,8 @@ Engineer
 * [Data Warehouse with Snowflake, Under construction]  
 * [Spark ETL in Scala, Under construction]  
 * [Serverless REST API, AWS and  Infrasture as Code , Under construction]  
-* [REST API in Go and Python, Under construction]   
-* [GRPC API in Go and Python, Under construction]  
+* [REST API in Go and Python, Under construction](https://github.com/bclipp/rest_grocery)   
+* [GRPC API in Go and Python, Under construction](https://github.com/bclipp/grpc_app)
 
 ### Publication:
 
