@@ -18,8 +18,12 @@ Engineer
 * [Spark ETL in Scala, *Under construction*](https://github.com/bclipp/spark_etl)  
 * [Serverless REST API, *Under construction*](https://github.com/bclipp/serverless_rest)
 * [Kafka Mircoservice, *Under construction*, *Under construction*](https://github.com/bclipp/kafka_microservice)
-* [REST API, MongoDB & Redis, *Under construction*](https://github.com/bclipp/rest_grocery)   
+* [REST API, *Under construction*](https://github.com/bclipp/rest_grocery)
+      * Python, Redis & MongoDB
+      * Go , BoltDB, MongoDB
 * [GRPC ,Elasticsearch & Redis, *Under construction*](https://github.com/bclipp/grpc_app)
+      * Python, Redis & Elasticsearch
+      * Go , BoltDB, Elasticsearch
 * [Data Modeling MongoDB, *Under construction*](https://github.com/bclipp/modeling_mongodb)
 * [Data Modeling Elasticsearch, *Under construction*](https://github.com/bclipp/modeling_elasticsearch)
 
