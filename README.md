@@ -19,11 +19,11 @@ Engineer
 * [Serverless REST API, *Under construction*](https://github.com/bclipp/serverless_rest)
 * [Kafka Mircoservice, *Under construction*, *Under construction*](https://github.com/bclipp/kafka_microservice)
 * [REST API, *Under construction*](https://github.com/bclipp/rest_grocery)  
-      * Python, Redis & MongoDB  
-      * Go , BoltDB, MongoDB  
+    * Python, Redis & MongoDB  
+    * Go , BoltDB, MongoDB  
 * [GRPC ,Elasticsearch & Redis, *Under construction*](https://github.com/bclipp/grpc_app)  
-      * Python, Redis & Elasticsearch  
-      * Go , BoltDB, Elasticsearch  
+    * Python, Redis & Elasticsearch  
+    * Go , BoltDB, Elasticsearch  
 * [Data Modeling MongoDB, *Under construction*](https://github.com/bclipp/modeling_mongodb)
 * [Data Modeling Elasticsearch, *Under construction*](https://github.com/bclipp/modeling_elasticsearch)
 
