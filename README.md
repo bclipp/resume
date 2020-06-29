@@ -5,7 +5,10 @@ Engineer
 
 ### Projects:
 
-* [API and DB ingestion app](https://github.com/bclipp/api_db_ingestion)
+* [API and DB ingestion app](https://github.com/bclipp/api_db_ingestion) 
+   * [Go](https://github.com/bclipp/api_db_ingestion/tree/master/go)  
+   * [Python](https://github.com/bclipp/api_db_ingestion/tree/master/python)  
+   * [Scala](https://github.com/bclipp/api_db_ingestion/tree/master/scala)  
 * [MLOps Project](https://github.com/bclipp/mlpipeline_jenkins)  
 * [Streaming Data with Kafka](https://github.com/bclipp/streaming_data_postgresql) 
 * [Data modeling & ETL using Postgresql, *Under construction*](https://github.com/bclipp/data_modeling_posgresql)
