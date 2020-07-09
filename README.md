@@ -10,7 +10,7 @@ Engineer
    * [Python](https://github.com/bclipp/api_db_ingestion/tree/master/python)  
    * [Scala](https://github.com/bclipp/api_db_ingestion/tree/master/scala)  
 * [MLOps Project](https://github.com/bclipp/mlpipeline_jenkins)  
-* [Streaming Data with Kafka](https://github.com/bclipp/streaming_data_postgresql)
+* [Streaming CDC Data with Kafka Connect](https://github.com/bclipp/streaming_data_postgresql)
 * [Relational Data Modeling (PostgreSQL & cockroachDB) , *Under construction*](https://github.com/bclipp/relational_data_modeling)
 * [NoSQL Data Modeling w/ Cassandra, *Under construction*](https://github.com/bclipp/cassandra_modeling)
 * [NoSQL Data Modeling (Elasticsearch, MongoDB), *Under construction*](https://github.com/bclipp/nosql_data_modeling)
