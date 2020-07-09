@@ -15,10 +15,8 @@ Engineer
 * [Apache Spark ETL (Python, Scala and Go), *Under construction*](https://github.com/bclipp/spark_etl)  
 * [Serverless REST API (Python, Scala and Go), *Under construction*](https://github.com/bclipp/serverless_rest)
 * [Kafka Mircoservice (Python, Scala and Go), *Under construction*, *Under construction*](https://github.com/bclipp/kafka_microservice)
-* [REST API (Python, Scala and Go), *Under construction*](https://github.com/bclipp/rest_grocery)  
-    * Python, Redis & PostGreSQL  
-    * Go , BoltDB, PostGreSQL  
-* [GRPC (Python, Scala and Go),PostGreSQL & Redis, *Under construction*](https://github.com/bclipp/grpc_app)  
+* [REST API (Python, Scala and Go),PostGreSQL & Redis/BoltDB , *Under construction*](https://github.com/bclipp/rest_grocery)  
+* [GRPC (Python, Scala and Go),PostGreSQL & Redis/BoltDB, *Under construction*](https://github.com/bclipp/grpc_app)  
 ### Publication:
 
 
