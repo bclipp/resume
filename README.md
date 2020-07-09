@@ -11,7 +11,7 @@ Engineer
    * [Scala](https://github.com/bclipp/api_db_ingestion/tree/master/scala)  
 * [MLOps Project](https://github.com/bclipp/mlpipeline_jenkins)  
 * [Streaming Data with Kafka](https://github.com/bclipp/streaming_data_postgresql) 
-* [Data modeling & ETL using Postgresql, *Under construction*](https://github.com/bclipp/data_modeling_posgresql)
+* [Relational Data Modeling (PostgreSQL & cockroachDB , *Under construction*](https://github.com/bclipp/relational_data_modeling)
 * [Data Modeling & ETL using Cassandra, *Under construction*](https://github.com/bclipp/cassandra_modeling)
 * [Data Modeling & ETL using Cockroachdb, *Under construction*](https://github.com/bclipp/cockroachdb_modeling)
 * [Data Warehouse, *Under construction*](https://github.com/bclipp/datawarehouse)  
