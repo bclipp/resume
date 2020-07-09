@@ -22,10 +22,8 @@ Engineer
     * Python, Redis & PostGreSQL  
     * Go , BoltDB, PostGreSQL  
 * [GRPC ,Elasticsearch & Redis, *Under construction*](https://github.com/bclipp/grpc_app)  
-    * Python, Redis & Elasticsearch  
-    * Go , BoltDB, Elasticsearch  
-* [Data Modeling MongoDB, *Under construction*](https://github.com/bclipp/modeling_mongodb)
-* [Data Modeling Elasticsearch, *Under construction*](https://github.com/bclipp/modeling_elasticsearch)
+    * Python, Redis & PostGreSQL  
+    * Go , BoltDB, PostGreSQL  
 
 ### Publication:
 
