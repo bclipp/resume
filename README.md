@@ -1,7 +1,7 @@
 Brian Lipp   
 Engineer
 
-![Me](headshot.jpg)
+![Me](headshot_small.jpeg)
 
 ### Projects:
 
