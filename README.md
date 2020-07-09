@@ -11,7 +11,7 @@ Engineer
 * [Relational Data Modeling (PostgreSQL & cockroachDB) (Python, Scala and Go), *Under construction*](https://github.com/bclipp/relational_data_modeling)
 * [NoSQL Data Modeling w/ Cassandra (Python, Scala and Go), *Under construction*](https://github.com/bclipp/cassandra_modeling)
 * [NoSQL Data Modeling (Elasticsearch, MongoDB) (Python, Scala and Go), *Under construction*](https://github.com/bclipp/nosql_data_modeling)
-* [Data Warehouse (Python, Scala and Go), *Under construction*](https://github.com/bclipp/datawarehouse)  
+* [Data Warehousing with Snowflake & Spark (Python, Scala and Go), *Under construction*](https://github.com/bclipp/datawarehouse)  
 * [Apache Spark ETL (Python, Scala and Go), *Under construction*](https://github.com/bclipp/spark_etl)  
 * [Serverless REST API (Python, Scala and Go), *Under construction*](https://github.com/bclipp/serverless_rest)
 * [Kafka Mircoservice (Python, Scala and Go), *Under construction*, *Under construction*](https://github.com/bclipp/kafka_microservice)
