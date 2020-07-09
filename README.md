@@ -15,7 +15,7 @@ Engineer
 * [NoSQL Data Modeling w/ Cassandra, *Under construction*](https://github.com/bclipp/cassandra_modeling)
 * [NoSQL Data Modeling (Elasticsearch, MongoDB), *Under construction*](https://github.com/bclipp/nosql_data_modeling)
 * [Data Warehouse, *Under construction*](https://github.com/bclipp/datawarehouse)  
-* [Spark ETL in Scala, *Under construction*](https://github.com/bclipp/spark_etl)  
+* [Apache Spark ETL, *Under construction*](https://github.com/bclipp/spark_etl)  
 * [Serverless REST API, *Under construction*](https://github.com/bclipp/serverless_rest)
 * [Kafka Mircoservice, *Under construction*, *Under construction*](https://github.com/bclipp/kafka_microservice)
 * [REST API, *Under construction*](https://github.com/bclipp/rest_grocery)  
