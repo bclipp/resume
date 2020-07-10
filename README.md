@@ -25,6 +25,7 @@ Engineer
  * [Engineering for All: Dependency Injection](https://link.medium.com/VlcbYxl6g6)   
  * [Snowflake and Spark: A technical perspective](https://link.medium.com/FbRABls6g6)  
  * [Engineering for All: Faking](https://link.medium.com/elkgGsv6g6)
+ * [EXECUTIVE PROGRAMME IN ALGORITHMIC TRADING](https://certificates.quantinsti.com/6871b623-ece1-4e23-8707-4e943e404fbc?key=947a5ee8d0095930f39860ac2241966e9f469577fdfdf9f8526a25233ef06043#gs.afxyaa)
 
  ### Certifications
 
