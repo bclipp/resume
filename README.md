@@ -31,8 +31,6 @@ Engineer
  * A+
  * Net+
  * CCNA
- * Udacity Data Engineering Nanodegree
- * Scala Academy: Pragmatic Scala
  * AWS Solutions Architect Associate (June 2020)
  * Data Bricks Spark Developer (July 2020)
  * Snowflake Developer (August 2020)
@@ -60,6 +58,7 @@ Engineer
 * **Adjunct Instructor**, ECPI University, Richmond, VA: 2009 - 2010 & 2016
 
  ### Mooc's NanoDegrees
+ * [Scala Academy]Pragmatic Scala]
  * [Udacity Nanodegree Data Engineering](https://confirm.udacity.com/JHD9JTFR)
  * [Coursera Big Data Specialization](https://coursera.org/share/bf56045df7728ab7940fb981d761c432)
  * [Coursera Data Science Specialization](https://coursera.org/share/c6f7e76369d8d0d726aed9fbae500567)
