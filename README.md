@@ -65,6 +65,6 @@ Engineer
  * [Coursera Data Science Specialization](https://coursera.org/share/c6f7e76369d8d0d726aed9fbae500567)
  * [Coursera Machine Learning Specialization](https://coursera.org/share/34e2235faea1a897b1800170045ead46)
  * [Coursera Golang Specialization]()
- * [EXECUTIVE PROGRAMME IN ALGORITHMIC TRADING](https://certificates.quantinsti.com/6871b623-ece1-4e23-8707-4e943e404fbc?key=947a5ee8d0095930f39860ac2241966e9f469577fdfdf9f8526a25233ef06043#gs.afxyaa)
+ * [Executive Program in Algorithmic Trading](https://certificates.quantinsti.com/6871b623-ece1-4e23-8707-4e943e404fbc?key=947a5ee8d0095930f39860ac2241966e9f469577fdfdf9f8526a25233ef06043#gs.afxyaa)
 
  ### 25+ Mooc Courses
