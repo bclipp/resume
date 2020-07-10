@@ -46,11 +46,16 @@ Engineer
 ### Work History
 * **Author**, Packt Publishing, 2019 - Present
 * **Sr. Consultant**, SingleStone Consulting, VA 7/2019 - Present
+    * Developer/Data Engineer/MLOps
 * **Developer/ Data Scientist**, SiteZeus, VA 8/2018 - 7/2019
+    * Developer/Data Engineer/MLOps
 * **API Enablement Engineer**, Terazo  (formerly APIvista), Richmond, VA 1/2018 - 8/2018
+   * Developer/Data Engineer/MLOps
 * **Contracting**, 4/2017 - 12/31/2017
   * **Sr. Analytics developer**; Credit Suisse
-  * **Data Scientist/Developer**; Pratt & Whitney
+    * Developer/Data Engineer
+  * **Data Developer**; Pratt & Whitney
+    * Developer/Data Engineer/MLOps
 * **IT Specialist II (Developer/Engineer)**, The College of William and Mary, Williamsburg, VA: 2009 - 3/2017
 * **Adjunct Instructor**, ECPI University, Richmond, VA: 2009 - 2010 & 2016
 
