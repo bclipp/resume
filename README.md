@@ -60,7 +60,7 @@ Engineer
 * **Adjunct Instructor**, ECPI University, Richmond, VA: 2009 - 2010 & 2016
 
  ### Mooc's Specialization Completed
-
+ * [Udacity Nanodegree Data Engineering](https://confirm.udacity.com/JHD9JTFR)
  * [Coursera Big Data Specialization](https://coursera.org/share/bf56045df7728ab7940fb981d761c432)
  * [Coursera Data Science Specialization](https://coursera.org/share/c6f7e76369d8d0d726aed9fbae500567)
  * [Coursera Machine Learning Specialization](https://coursera.org/share/34e2235faea1a897b1800170045ead46)
