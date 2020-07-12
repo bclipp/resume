@@ -9,16 +9,16 @@ Engineer
 * [MLOps Project](https://github.com/bclipp/mlpipeline_jenkins)  
 * [Streaming CDC Data with Kafka Connect](https://github.com/bclipp/streaming_data_postgresql)
     
-    
-* [Relational Data Modeling (PostgreSQL & CockroachDB) (Python, Scala and Go), *Under construction*](https://github.com/bclipp/relational_data_modeling)
-* [Apache Spark ETL (Python, Scala and Go), *Under construction*](https://github.com/bclipp/spark_etl)  
-* [Data Warehousing with Snowflake, Spark,CockroachDB (Python, Scala and Go), *Under construction*](https://github.com/bclipp/datawarehouse)  
-* [NoSQL Data Modeling w/ Cassandra (Python, Scala and Go), *Under construction*](https://github.com/bclipp/cassandra_modeling)
-* [NoSQL Data Modeling (Elasticsearch, MongoDB) (Python, Scala and Go), *Under construction*](https://github.com/bclipp/nosql_data_modeling)
-* [Serverless REST API (Python, Scala and Go), *Under construction*](https://github.com/bclipp/serverless_rest)
-* [Kafka Mircoservice (Python, Scala and Go), *Under construction*, *Under construction*](https://github.com/bclipp/kafka_microservice)
-* [REST API (Python, Scala and Go),PostGreSQL & Redis/BoltDB , *Under construction*](https://github.com/bclipp/rest_grocery)  
-* [GRPC (Python, Scala and Go),PostGreSQL & Redis/BoltDB, *Under construction*](https://github.com/bclipp/grpc_app)  
+### Under Construction  
+* [Relational Data Modeling (PostgreSQL & CockroachDB) (Python, Scala and Go)](https://github.com/bclipp/relational_data_modeling)
+* [Apache Spark ETL (Python, Scala and Go)](https://github.com/bclipp/spark_etl)  
+* [Data Warehousing with Snowflake, Spark,CockroachDB (Python, Scala and Go)](https://github.com/bclipp/datawarehouse)  
+* [NoSQL Data Modeling w/ Cassandra (Python, Scala and Go)](https://github.com/bclipp/cassandra_modeling)
+* [NoSQL Data Modeling (Elasticsearch, MongoDB) (Python, Scala and Go)](https://github.com/bclipp/nosql_data_modeling)
+* [Serverless REST API (Python, Scala and Go)](https://github.com/bclipp/serverless_rest)
+* [Kafka Mircoservice (Python, Scala and Go)](https://github.com/bclipp/kafka_microservice)
+* [REST API (Python, Scala and Go),PostGreSQL & Redis/BoltDB ](https://github.com/bclipp/rest_grocery)  
+* [GRPC (Python, Scala and Go),PostGreSQL & Redis/BoltDB](https://github.com/bclipp/grpc_app)  
 ### Publication:
 
 
