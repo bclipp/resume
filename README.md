@@ -47,7 +47,7 @@ Engineer
  ### University
 
 * Pace University, [**MSCIS**](ms_degree.jpg) — 2010, GPA - 3.45  
-* Strayer University , [**BSIT**](bs_degree.jpg) — 2006 , GPA - 3.67 ; [**ASIT**](as_degree.jpg) — 2004 ; GPA --- 4.0
+* Strayer University , [**BSIT**](bs_degree.jpg) — 2006 , GPA - 3.67, Cume Laude ; [**ASIT**](as_degree.jpg) — 2004 ; GPA --- 4.0, Magna Cume Laude
 
 ### Work History
 * **Author**, Packt Publishing, 2019 - Present
