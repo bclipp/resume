@@ -63,6 +63,7 @@ Engineer
   * **Data Developer**; Pratt & Whitney
     * Developer/Data Engineer/MLOps
 * **IT Specialist II (Developer/Engineer)**, The College of William and Mary, Williamsburg, VA: 2009 - 3/2017
+    * Network/Developer/Data Engineer
 * **Adjunct Instructor**, ECPI University, Richmond, VA: 2009 - 2010 & 2016
 
  ### Mooc's NanoDegrees
