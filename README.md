@@ -21,9 +21,9 @@ Engineer
 * [GRPC (Python, Scala and Go),PostGreSQL & Redis/BoltDB](https://github.com/bclipp/grpc_app)  
 
 ### Libraries
-* Go EasyDB
-* Python EasyDB
-* Python Replicator
+* [Go EasyDB](https://github.com/bclipp/go_easyDB)
+* [Python EasyDB](https://github.com/bclipp/python_easyDB)
+* [Python Replicator](https://github.com/bclipp/python_replicator)
 
 ### Publication:
 
