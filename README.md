@@ -19,6 +19,12 @@ Engineer
 * [Kafka Mircoservice (Python, Scala and Go)](https://github.com/bclipp/kafka_microservice)
 * [REST API (Python, Scala and Go),PostGreSQL & Redis/BoltDB ](https://github.com/bclipp/rest_grocery)  
 * [GRPC (Python, Scala and Go),PostGreSQL & Redis/BoltDB](https://github.com/bclipp/grpc_app)  
+
+### Libraries
+* Go EasyDB
+* Python EasyDB
+* Python Replicator
+
 ### Publication:
 
 
