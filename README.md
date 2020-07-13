@@ -23,7 +23,7 @@ Engineer
 ### Libraries
 * [Go EasyDatabase](https://github.com/bclipp/EasyDatabase)
 * [Python easy_database](https://github.com/bclipp/easy_database) ,  [pypi](https://pypi.org/project/easy-database/)
-* [Python Replicator](https://github.com/bclipp/python_replicator)
+* [Python Replicator](https://github.com/bclipp/replicators)  , [pypi](https://pypi.org/project/replicators/)
 
 ### Publication:
 
