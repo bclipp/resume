@@ -3,6 +3,11 @@ Engineer
 
 ![Me](headshot_small.jpeg)
 
+### Libraries/Packages
+* [Go EasyDatabase](https://github.com/bclipp/EasyDatabase)
+* [Python easy_database](https://github.com/bclipp/easy_database) ,  [pypi](https://pypi.org/project/easy-database/)
+* [Python Replicator](https://github.com/bclipp/replicators)  , [pypi](https://pypi.org/project/replicators/)
+
 ### Projects:
 
 * [API and DB ingestion app (Python, Scala and Go)](https://github.com/bclipp/api_db_ingestion) 
@@ -19,11 +24,6 @@ Engineer
 * [Kafka Mircoservice (Python, Scala and Go)](https://github.com/bclipp/kafka_microservice)
 * [REST API (Python, Scala and Go),PostGreSQL & Redis/BoltDB ](https://github.com/bclipp/rest_grocery)  
 * [GRPC (Python, Scala and Go),PostGreSQL & Redis/BoltDB](https://github.com/bclipp/grpc_app)  
-
-### Libraries
-* [Go EasyDatabase](https://github.com/bclipp/EasyDatabase)
-* [Python easy_database](https://github.com/bclipp/easy_database) ,  [pypi](https://pypi.org/project/easy-database/)
-* [Python Replicator](https://github.com/bclipp/replicators)  , [pypi](https://pypi.org/project/replicators/)
 
 ### Publication:
 
