@@ -20,10 +20,7 @@ Engineer
 * [Data Warehousing with Snowflake, Spark,CockroachDB (Python, Scala and Go)](https://github.com/bclipp/datawarehouse)  
 * [NoSQL Data Modeling w/ Cassandra (Python, Scala and Go)](https://github.com/bclipp/cassandra_modeling)
 * [NoSQL Data Modeling (Elasticsearch, MongoDB) (Python, Scala and Go)](https://github.com/bclipp/nosql_data_modeling)
-* [Serverless REST API (Python, Scala and Go)](https://github.com/bclipp/serverless_rest)
-* [Kafka Mircoservice (Python, Scala and Go)](https://github.com/bclipp/kafka_microservice)
 * [REST API (Python, Scala and Go),PostGreSQL & Redis/BoltDB ](https://github.com/bclipp/rest_grocery)  
-* [GRPC (Python, Scala and Go),PostGreSQL & Redis/BoltDB](https://github.com/bclipp/grpc_app)  
 
 ### Publication:
 
