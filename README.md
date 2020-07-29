@@ -24,9 +24,9 @@ Engineer
 
 ### Publication:
 * Packt Publishing:     
-        * Python Fundamentals (online course)           
-        * The Data Wrangling Workshop - Second Edition ( Online Course)              
-        * The Data Wrangling Workshop - Second Edition [Book](https://www.amazon.com/Data-Wrangling-Workshop-actionable-sources/dp/1839215003/ref=sr_1_1?dchild=1&keywords=brian+lipp&qid=1596041755&sr=8-1)  
+     * Python Fundamentals (online course)           
+     * The Data Wrangling Workshop - Second Edition ( Online Course)              
+     * The Data Wrangling Workshop - Second Edition [Book](https://www.amazon.com/Data-Wrangling-Workshop-actionable-sources/dp/1839215003/ref=sr_1_1?dchild=1&keywords=brian+lipp&qid=1596041755&sr=8-1)  
  * [Engineering for All: Single Responsibility](https://link.medium.com/dHEeBp2mf4)
  * [Engineering for all: Unit Testing](https://link.medium.com/iaMqhEwkd4)
  * [Engineering for All: Dependency Injection](https://link.medium.com/VlcbYxl6g6)   
