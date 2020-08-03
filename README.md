@@ -18,7 +18,7 @@ Engineer
 * [dining philosophers problem](https://github.com/bclipp/dining_philosophers)
     
     
-##### Under Construction  
+### Under Construction  
 * [Relational Data Modeling (PostgreSQL & CockroachDB) (Python, Scala and Go)](https://github.com/bclipp/relational_data_modeling)
 * [Apache Spark ETL (Python, Scala and Go)](https://github.com/bclipp/spark_etl)  
 * [Data Warehousing with Snowflake, Spark,CockroachDB (Python, Scala and Go)](https://github.com/bclipp/datawarehouse)  
