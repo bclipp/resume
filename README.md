@@ -15,7 +15,7 @@ Engineer
 * [Streaming CDC Data with Kafka Connect](https://github.com/bclipp/streaming_data_postgresql)
     
 ### Exercises / Problems
-* [dining philosophers problem](https://github.com/bclipp/dining_philosophers)
+* [Dining Philosophers Problem](https://github.com/bclipp/dining_philosophers)
     
     
 ### Under Construction  
