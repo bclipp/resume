@@ -69,7 +69,7 @@ Engineer
     * Network/Developer/Data Engineer
 * **Adjunct Instructor**, ECPI University, Richmond, VA: 2009 - 2010 & 2016
 
- ### Mooc's NanoDegrees ( 30+ Mooc Courses)
+ ### Mooc's NanoDegrees 
  * [Scala Academy:Pragmatic Scala](scala-academy.pdf)
  * [Udacity Nanodegree Data Engineering](https://confirm.udacity.com/JHD9JTFR)
  * [Coursera Big Data Specialization](https://coursera.org/share/bf56045df7728ab7940fb981d761c432)
@@ -81,3 +81,4 @@ Engineer
  * Coursera Build a Modern Computer from First Principles: From Nand to Tetris (Part1 & Part2)
  * [Executive Program in Algorithmic Trading](https://certificates.quantinsti.com/6871b623-ece1-4e23-8707-4e943e404fbc?key=947a5ee8d0095930f39860ac2241966e9f469577fdfdf9f8526a25233ef06043#gs.afxyaa)
 
+### 30+ Mooc Courses
