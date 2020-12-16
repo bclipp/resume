@@ -37,48 +37,4 @@ Engineer
  * [Snowflake and Spark: A technical perspective](https://link.medium.com/FbRABls6g6)  
  * [Engineering for All: Faking](https://link.medium.com/elkgGsv6g6)
 
- ### Certifications
-
- * A+
- * Net+
- * CCNA
- * AWS Solutions Architect Associate (2020) (In progress)
- * Data Bricks Spark Developer (2020) (In progress)
- * Certified Kubernetes Application Developer (2020) (In progress)
- * Kafka Developer (2021)
-
- ### University
-
-* Pace University, [**MSCIS**](ms_degree.jpg) — 2010, GPA - 3.45  
-* Strayer University , [**BSIT**](bs_degree.jpg) — 2006 , GPA - 3.67, Cume Laude ; [**ASIT**](as_degree.jpg) — 2004 ; GPA --- 4.0, Magna Cume Laude
-
-### Work History
-* **Author**, Packt Publishing, 2019 - Present
-* **Sr. Consultant**, SingleStone Consulting, VA 7/2019 - Present
-    * Developer/Data Engineer/MLOps
-* **Developer/ Data Scientist**, SiteZeus, VA 8/2018 - 7/2019
-    * Developer/Data Engineer/MLOps
-* **API Enablement Engineer**, Terazo  (formerly APIvista), Richmond, VA 1/2018 - 8/2018
-   * Developer/Data Engineer/MLOps
-* **Contracting**, 4/2017 - 12/31/2017
-  * **Sr. Analytics developer**; Credit Suisse
-    * Developer/Data Engineer
-  * **Data Developer**; Pratt & Whitney
-    * Developer/Data Engineer/MLOps
-* **IT Specialist II (Developer/Engineer)**, The College of William and Mary, Williamsburg, VA: 2009 - 3/2017
-    * Network/Developer/Data Engineer
-* **Adjunct Instructor**, ECPI University, Richmond, VA: 2009 - 2010 & 2016
-
- ### Mooc's NanoDegrees 
- * [Scala Academy:Pragmatic Scala](scala-academy.pdf)
- * [Udacity Nanodegree Data Engineering](https://confirm.udacity.com/JHD9JTFR)
- * [Coursera Big Data Specialization](https://coursera.org/share/bf56045df7728ab7940fb981d761c432)
- * [Coursera Data Science Specialization](https://coursera.org/share/c6f7e76369d8d0d726aed9fbae500567)
- * [Coursera Machine Learning Specialization](https://coursera.org/share/34e2235faea1a897b1800170045ead46)
- * [Coursera Golang Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/B6PZ5TH9S749)
- * Coursera Database systems Specialization
- * Coursera Algorithms Specialization
- * Coursera Build a Modern Computer from First Principles: From Nand to Tetris (Part1 & Part2)
- * [Executive Program in Algorithmic Trading](https://certificates.quantinsti.com/6871b623-ece1-4e23-8707-4e943e404fbc?key=947a5ee8d0095930f39860ac2241966e9f469577fdfdf9f8526a25233ef06043#gs.afxyaa)
-
-### 30+ Mooc Courses
+ 
