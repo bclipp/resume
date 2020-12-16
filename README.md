@@ -36,5 +36,5 @@ Engineer
  * [Engineering for All: Dependency Injection](https://link.medium.com/VlcbYxl6g6)   
  * [Snowflake and Spark: A technical perspective](https://link.medium.com/FbRABls6g6)  
  * [Engineering for All: Faking](https://link.medium.com/elkgGsv6g6)
-
+ * [Modern Data Engineering](https://bclipp770-34065.medium.com/modern-data-engineering-c44c5df79c61) 
  
