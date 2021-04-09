@@ -39,14 +39,10 @@ Engineer
  * [A Guide to Data Stores](https://bclipp770-34065.medium.com/choosing-a-data-store-a-guide-for-the-curious-2c580645916a)
  
  ### Certifications
-
+ * [DataBricks Spark Developer](https://github.com/bclipp/resume/blob/master/award-09caeb21-3eeb-35b6-bc62-5d11ecb28633.pdf)
  * A+
  * Net+
  * CCNA
- * AWS Solutions Architect Associate (2020) (In progress)
- * Data Bricks Spark Developer (2020) (In progress)
- * Certified Kubernetes Application Developer (2020) (In progress)
- * Kafka Developer (2021)
 
  ### University
 
