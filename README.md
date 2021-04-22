@@ -11,7 +11,8 @@ Engineer
 ### Projects:
 
 * [API and DB ingestion app (Python, Scala and Go)](https://github.com/bclipp/api_db_ingestion) 
-* [MLOps Project](https://github.com/bclipp/mlpipeline_jenkins)  
+* [MLOps Project](https://github.com/bclipp/MLOps_main)
+    * [old](https://github.com/bclipp/mlpipeline_jenkins)  
 * [Streaming CDC Data with Kafka Connect](https://github.com/bclipp/streaming_data_postgresql)
     
 ### Exercises / Problems
