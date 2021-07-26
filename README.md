@@ -39,6 +39,7 @@ Engineer
  * [Modern Data Engineering](https://bclipp770-34065.medium.com/modern-data-engineering-c44c5df79c61) 
  * [A Guide to Data Stores](https://bclipp770-34065.medium.com/choosing-a-data-store-a-guide-for-the-curious-2c580645916a)
  * [Decomposing The Lakehouse](https://bclipp770-34065.medium.com/decomposing-the-lakehouse-84b36cffc4bd)
+ * MLOps [1](https://bclipp770-34065.medium.com/mlops-basics-part-1-27c5f40b8a89) [2](https://bclipp770-34065.medium.com/mlops-basics-part-2-1410ca589f84) [3](https://bclipp770-34065.medium.com/mlops-basics-part-3-d238c4b821b9) [4](https://bclipp770-34065.medium.com/mlops-basics-part-4-8103d80ca4f9)
  
  ### Certifications
  * [DataBricks Spark Developer](https://github.com/bclipp/resume/blob/master/award-09caeb21-3eeb-35b6-bc62-5d11ecb28633.pdf)
