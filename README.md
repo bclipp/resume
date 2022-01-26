@@ -43,6 +43,7 @@ Engineer
  
  ### Certifications
  * [DataBricks Spark Developer](https://github.com/bclipp/resume/blob/master/award-09caeb21-3eeb-35b6-bc62-5d11ecb28633.pdf)
+ * [Fundamentals of Lakehouse Platform](databricks_basic_lakehouse_cert.pdf)
  * A+
  * Net+
  * CCNA
